@@ -1,6 +1,6 @@
 ### Hi, I'm Alejandro Gutiérrez 🤙🦆
 
-
+<img src="" alt="banner que dice Sarah hart Landolt - desarrolladora de software, artista, diseñadora">
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=KANGRIZ&show_icons=true&theme=radical)
 
