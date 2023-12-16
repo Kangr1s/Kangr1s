@@ -20,6 +20,12 @@
 <a href="https://www.instagram.com/kangr1s/" target="_blank">
 <img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
 </a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/tiktok%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=youtube style="margin-bottom: 5px;" />
+</a>
+<a href="" target="_blank">
+<img src=https://img.shields.io/badge/youtube%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=tiktok style="margin-bottom: 5px;" />
+</a>
 
 </div>  
   
