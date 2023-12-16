@@ -1,6 +1,6 @@
 ### Hi, I'm Alejandro Gutiérrez 🤙🦀
 
-<img src="Computer Engineer & Freelance Developer.png" alt="banner_presentación">
+<img src="banner_.png" alt="banner_presentación">
 
 ### ⚙📙Languages
 
