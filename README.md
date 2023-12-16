@@ -1,4 +1,4 @@
-### Hi, I'm Alejandro Gutiérrez 🤙🦆
+### Hi, I'm Alejandro Gutiérrez 🤙🦀
 
 <img src="Computer Engineer & Freelance Developer.png" alt="banner_presentación">
 
@@ -6,6 +6,9 @@
 
 ![github stats](https://github-readme-stats.vercel.app/api?username=KANGRIZ&show_icons=true&theme=radical)
 
+### ⚙📙Languages
+
+### ⚙️Tools 
 
 ## Connect with me  
 <div align="center"><a href="https://www.linkedin.com/in/alejandro-gutiérrez-lópez-984b79268/" target="_blank">
