@@ -2,10 +2,6 @@
 
 <img src="Computer Engineer & Freelance Developer.png" alt="banner_presentación">
 
-![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=KANGRIZ&show_icons=true&theme=radical)
-
-![github stats](https://github-readme-stats.vercel.app/api?username=KANGRIZ&show_icons=true&theme=radical)
-
 ### ⚙📙Languages
 
 ### ⚙️Tools 
@@ -24,7 +20,11 @@
 </div>  
   
 
-<br/>  
+<br/> 
+
+### GitHub Stats 🚀
+<!--![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=KANGRIZ&show_icons=true&theme=radical)-->
+![github stats](https://github-readme-stats.vercel.app/api?username=KANGRIZ&show_icons=true&theme=radical)
   
 <!--
 **KANGRIZ/KANGRIZ** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
