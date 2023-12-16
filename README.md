@@ -1,6 +1,6 @@
 ### Hi, I'm Alejandro Gutiérrez 🤙🦆
 
-<img src="https://github.com/KANGRIZ/KANGRIZ/blob/main/Alejandro%20Guti%C3%A9rrez.png" alt="banner_presentación">
+<img src="Computer Engineer & Freelance Developer.png" alt="banner_presentación">
 
 ![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=KANGRIZ&show_icons=true&theme=radical)
 
