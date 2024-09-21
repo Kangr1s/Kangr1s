@@ -1,7 +1,5 @@
 ### Hi, I'm Alejandro Gutiérrez 🤙🦀
 
-<img src="banner_.png" alt="banner_presentación">
-
 ### ⚙📙Languages
 
 ### ⚙️Tools 
