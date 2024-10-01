@@ -3,7 +3,7 @@
 ### ⚙📙Languages
 
 ### ⚙️Tools 
-
+Holajjjajaododk
 ### GitHub Stats 🚀
 <!--![top-langs](https://github-readme-stats.vercel.app/api/top-langs?username=KANGRIZ&show_icons=true&theme=radical)-->
 ![github stats](https://github-readme-stats.vercel.app/api?username=Kangr1s&show_icons=true&theme=radical)
