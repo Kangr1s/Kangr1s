@@ -1,6 +1,5 @@
 <img align="left" src="img/logo_.png" height="200" width="200">
 
-
 <table align="right">
  <tr><td><a href="README.md"><img src="img/flag-eu.png" height="13" width="20" style="border-radius: 3px"> English</a></td></tr>
  <tr><td><a href="README_sp.md"><img src="img/flag-spain.png" height="13" width="20" style="border-radius: 3px"> Spanish</a></td></tr>
@@ -13,7 +12,6 @@ src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" h
 
 I'm a Rust aficionado with a strong passion for all things open source. I love writing command-line tools.
 
-
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@kangris)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kangr1s/)
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://www.tiktok.com/@kangr1s)
@@ -24,31 +22,27 @@ I'm a Rust aficionado with a strong passion for all things open source. I love w
 
 ### Technologies & Languages 📙
 <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/HTML5-282C34?logo=html5&logoColor=E34F26" alt="HTML5 logo" title="HTML5" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/CSS3-282C34?logo=css3&logoColor=1572B6" alt="CSS3 logo" title="CSS3" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/Kotlin-282C34?logo=kotlin" alt="Kotlin logo" title="Kotlin" height="25" />
-&nbsp;
 <img src="https://img.shields.io/badge/Python-282C34?logo=python" alt="Python logo" title="Python" height="25" />
 <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="MySQL logo" title="MySQL" height="25" />
-&nbsp;
+
 
 
 ### Tools 🛠️
 <img src="https://img.shields.io/badge/Android%20Studio-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/VirtualBox-282C34?logo=virtualbox&logoColor=007ACC" alt="VirtualBox logo" title="VirtualBox" height="25" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/NeatBeans%20IDE-282C34?logo=apachenetbeanside" alt="Neatbeans logo" title="NeatBeans IDE" height="25" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/Unity-282C34?logo=unity" alt="Unity logo" title="Unity" height="25" />
-&nbsp;
+
 <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" alt="MongoDB logo" title="MongoDB" height="25" />
 
 ### &nbsp;GitHub Analytics 🚀
