@@ -17,13 +17,26 @@
  </ul>
 </div>
 
-
-I'm a Rust aficionado with a strong passion for all things open source. I love writing command-line tools.
+I'm a programming and technology aficionado with a strong passion for all things open source. I love learning.
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@kangris)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kangr1s/)&nbsp;
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=flat-square&logo=TikTok&logoColor=white)](https://www.tiktok.com/@kangr1s)&nbsp;
 [![Facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=flat-square&logo=facebook&logoColor=white )](https://www.facebook.com/alejogutierrezlopez/)&nbsp;
+
+<p align="center">
+ <img src="https://quotes-github-readme.vercel.app/api?quote=if%20it%20can%20be%20imagined,%20it%20can%20be%20programmed&author=unknown&type=horizontal&theme=dark)"/>
+</p> 
+
+
+<hr>
+
+## &nbsp;About me
+
+- ⭐ Github Star ⭐ 
+- 📲 Mobile developer
+
+<br>
 
 ## &nbsp;Skills:
 ### Languages 📙
@@ -44,14 +57,14 @@ I'm a Rust aficionado with a strong passion for all things open source. I love w
  <img src="https://img.shields.io/badge/MongoDB-282C34?logo=mongodb" alt="MongoDB logo" title="MongoDB" height="25" />&nbsp;
 </div>
 
-### IDE's 🛠️
+### IDE's 
 <div style="display:flex;">
  <img src="https://img.shields.io/badge/Android%20Studio-282C34?logo=android&logoColor=3DDC84" alt="Android logo" title="Android" height="25" />&nbsp;
  <img src="https://img.shields.io/badge/VS%20Code-282C34?logo=&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />&nbsp;
  <img src="https://img.shields.io/badge/NeatBeans%20IDE-282C34?logo=apachenetbeanside" alt="Neatbeans logo" title="NeatBeans IDE" height="25" />&nbsp;
 </div>
 
-### Database
+### Database 💾
 <div style="display:flex;">
  <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="MySQL logo" title="MySQL" height="25" />&nbsp;
  <img src="https://img.shields.io/badge/MySQL-282C34?logo=postgresql" alt="PostgresSQL logo" title="PostgresSQL" height="25" />&nbsp;
@@ -71,7 +84,7 @@ I'm a Rust aficionado with a strong passion for all things open source. I love w
  <img src="https://github-profile-trophy.vercel.app/?username=Kangr1s"/>&nbsp;
 </p>
 
-## &nbsp;Connect with me  
+## &nbsp;Connect with me ✉️
 <div align="center">
     <a href="https://www.linkedin.com/in/alejandro-gutiérrez-lópez-984b79268/" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
