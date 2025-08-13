@@ -1,15 +1,15 @@
 <img align="left" src="img/logo_.png" height="200" width="200">
 
 <table align="right">
- <tr><td><a href="README.md"><img src="img/flag-eu.png" height="13" width="20" style="border-radius: 3px"> English</a></td></tr>
- <tr><td><a href="README_sp.md"><img src="img/flag-spain.png" height="13" width="20" style="border-radius: 3px"> Spanish</a></td></tr>
- <tr><td><a href="README_jp.md"><img src="img/flag-japon.png" height="13" width="20" style="border-radius: 3px"> Japnase</a></td></tr>
+ <tr><td><a href="README.md"><img src="img/flag-eu.png" height="13" width="20" style="border-radius: 3px"> Inglés</a></td></tr>
+ <tr><td><a href="README_sp.md"><img src="img/flag-spain.png" height="13" width="20" style="border-radius: 3px"> Español</a></td></tr>
+ <tr><td><a href="README_jp.md"><img src="img/flag-japon.png" height="13" width="20" style="border-radius: 3px"> Japonés</a></td></tr>
 </table>
 
 <div id="user-content-toc">
  <ul align="center" style="list-style: none;">
     <summary>
-      <h1 align="center">Hi there, I'm 
+      <h1 align="center">Holaaaaaaa, soy
        <a href="https://www.kangris.dev/" target="_blank" style="color: #ce33ff ">Alejandro Gutiérrez</a>
        <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" height="32"/>
       </h1>
@@ -17,7 +17,7 @@
  </ul>
 </div>
 
-I'm a programming and technology aficionado with a strong passion for all things open source. I love learning.
+Soy un programador aficionado a la tecnología con una fuerte pasión por todas las cosas de código abierto. Amo aprender y aplicar lo aprendido
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=flat-square&logo=YouTube&logoColor=white)](https://www.youtube.com/@kangris)&nbsp;
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat-square&logo=Instagram&logoColor=white)](https://www.instagram.com/kangr1s/)&nbsp;
@@ -31,14 +31,14 @@ I'm a programming and technology aficionado with a strong passion for all things
 
 <hr>
 
-## &nbsp;About me
+## &nbsp;Acerca de mí
 
 - ⭐ Github Star ⭐ 
 - 📲 Mobile developer
 
 <br>
 
-## &nbsp;Skills:
+## &nbsp;Habilidades:
 ### Languages 📙
 <div style="display:flex;">
  <img src="https://img.shields.io/badge/JavaScript-282C34?logo=javascript&logoColor=F7DF1E" alt="JavaScript logo" title="JavaScript" height="25" />&nbsp;
@@ -49,7 +49,7 @@ I'm a programming and technology aficionado with a strong passion for all things
  <img src="https://img.shields.io/badge/Linux-282C34?logo=linux" alt="Linux logo" title="Linux" height="25" />&nbsp;
 </div>
 
-### Tools 🛠️
+### Herramientas 🛠️
 <div style="display:flex;">
  <img src="https://img.shields.io/badge/git-282C34?logo=git&logoColor=F05032" alt="git logo" title="git" height="25" />&nbsp;
  <img src="https://img.shields.io/badge/VirtualBox-282C34?logo=virtualbox&logoColor=007ACC" alt="VirtualBox logo" title="VirtualBox" height="25" />&nbsp;
@@ -64,13 +64,13 @@ I'm a programming and technology aficionado with a strong passion for all things
  <img src="https://img.shields.io/badge/NeatBeans%20IDE-282C34?logo=apachenetbeanside" alt="Neatbeans logo" title="NeatBeans IDE" height="25" />&nbsp;
 </div>
 
-### Database 💾
+### Bases de datos 💾
 <div style="display:flex;">
  <img src="https://img.shields.io/badge/MySQL-282C34?logo=mysql" alt="MySQL logo" title="MySQL" height="25" />&nbsp;
  <img src="https://img.shields.io/badge/MySQL-282C34?logo=postgresql" alt="PostgresSQL logo" title="PostgresSQL" height="25" />&nbsp;
 </div>
 
-## &nbsp;GitHub Analytics 🚀
+## &nbsp;Analisticas de GitHub 🚀
 <p align="center">
  <a href="https://github.com/Kangr1s">
    <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Kangr1s&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>&nbsp;
@@ -84,7 +84,7 @@ I'm a programming and technology aficionado with a strong passion for all things
  <img src="https://github-profile-trophy.vercel.app/?username=Kangr1s"/>&nbsp;
 </p>
 
-## &nbsp;Connect with me ✉️
+## &nbsp;Escribime y charlamos, me gusta negociar ✉️
 <div align="center">
     <a href="https://www.linkedin.com/in/alejandro-gutiérrez-lópez-984b79268/" target="_blank">
         <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
