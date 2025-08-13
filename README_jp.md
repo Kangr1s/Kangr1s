@@ -1,9 +1,9 @@
 <img align="left" src="img/logo_.png" height="200" width="200">
 
 <table align="right">
- <tr><td><a href="README.md"><img src="img/flag-eu.png" height="13" width="20" style="border-radius: 3px"> English</a></td></tr>
- <tr><td><a href="README_sp.md"><img src="img/flag-spain.png" height="13" width="20" style="border-radius: 3px"> Spanish</a></td></tr>
- <tr><td><a href="README_jp.md"><img src="img/flag-japon.png" height="13" width="20" style="border-radius: 3px"> Japnase</a></td></tr>
+ <tr><td><a href="README.md"><img src="img/flag-eu.png" height="13" width="20" style="border-radius: 3px"> 英語</a></td></tr>
+ <tr><td><a href="README_sp.md"><img src="img/flag-spain.png" height="13" width="20" style="border-radius: 3px"> スペイン語</a></td></tr>
+ <tr><td><a href="README_jp.md"><img src="img/flag-japon.png" height="13" width="20" style="border-radius: 3px"> 日本語</a></td></tr>
 </table>
 
 <div id="user-content-toc">
