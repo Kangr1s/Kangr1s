@@ -1,7 +1,7 @@
 <img align="left" src="img/logo_.png" height="200" width="200">
 
 <table align="right">
- <tr><td><a href="README.md"><img src="img/flag-eu.png" height="13" width="20" style="border-radius: 3px; margin-right: 6px;">English</a></td></tr>
+ <tr><td><a href="README.md"><img src="img/flag-eu.png" height="13" width="20" style="border-radius: 3px; margin-right: 60px;">English</a></td></tr>
  <tr><td><a href="README_sp.md"><img src="img/flag-spain.png" height="13" width="20" style="border-radius: 3px; margin-right: 6px;">Spanish</a></td></tr>
  <tr><td><a href="README_jp.md"><img src="img/flag-japon.png" height="13" width="20" style="border-radius: 3px; margin-right: 6px;">Japanase</a></td></tr>
 </table>
