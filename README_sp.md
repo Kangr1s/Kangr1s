@@ -25,7 +25,7 @@ Soy un programador aficionado a la tecnología con una fuerte pasión por todas 
 [![Facebook](https://img.shields.io/badge/facebook-%232E87FB.svg?&style=flat-square&logo=facebook&logoColor=white )](https://www.facebook.com/alejogutierrezlopez/)&nbsp;
 
 <p align="center">
- <img src="https://quotes-github-readme.vercel.app/api?quote=Si%20puedes%20imaginarlo,%20puedes%20programarlo&author=unknown&type=horizontal&theme=dark)"/>
+ <img src="https://quotes-github-readme.vercel.app/api?quote=Si%20puedes%20imaginarlo,%20puedes%20programarlo&author=desconocido&type=horizontal&theme=dark)"/>
 </p> 
 
 
